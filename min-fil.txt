@@ -5,4 +5,8 @@ da
 er
 det
 mye
-greier
+greier.
+
+Det
+er
+gøy!
